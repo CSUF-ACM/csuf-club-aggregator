@@ -5,11 +5,7 @@ one webportal which comprises all the clubs and notifies student about their eve
 ## The Project Team
 
 ### Team Lead
-Natalina Rodrigues linarodrigues13@csu.fullerton.edu
-#### Team Members
-  1. Member one
-  2. Member two
-  3. Member three
+None
 
 ## Project Technologies
 
